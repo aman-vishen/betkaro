@@ -15,7 +15,7 @@ const AboutPage = () => {
     <>
       <Breadcrumb
         pageName="About Page"
-        description="BetKheloo: Online Betting ID Gateway."
+        description="Guruji bet: Online Betting ID Gateway."
       />
       <AboutSectionOne />
       <AboutSectionTwo />

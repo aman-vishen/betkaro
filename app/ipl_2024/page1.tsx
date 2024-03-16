@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   // other metadata
 };
 
-const BlogDetailsPage = () => {
+const BlogDetailsPage1 = () => {
   return (
     <>
       <section className="pb-[120px] pt-[150px]">
@@ -59,7 +59,7 @@ const BlogDetailsPage = () => {
                             <path d="M13.2637 3.3697H7.64754V2.58105C8.19721 2.43765 8.62738 1.91189 8.62738 1.31442C8.62738 0.597464 8.02992 0 7.28906 0C6.54821 0 5.95074 0.597464 5.95074 1.31442C5.95074 1.91189 6.35702 2.41376 6.93058 2.58105V3.3697H1.31442C0.597464 3.3697 0 3.96716 0 4.68412V13.2637C0 13.9807 0.597464 14.5781 1.31442 14.5781H13.2637C13.9807 14.5781 14.5781 13.9807 14.5781 13.2637V4.68412C14.5781 3.96716 13.9807 3.3697 13.2637 3.3697ZM6.6677 1.31442C6.6677 0.979841 6.93058 0.716957 7.28906 0.716957C7.62364 0.716957 7.91042 0.979841 7.91042 1.31442C7.91042 1.649 7.64754 1.91189 7.28906 1.91189C6.95448 1.91189 6.6677 1.6251 6.6677 1.31442ZM1.31442 4.08665H13.2637C13.5983 4.08665 13.8612 4.34954 13.8612 4.68412V6.45261H0.716957V4.68412C0.716957 4.34954 0.979841 4.08665 1.31442 4.08665ZM13.2637 13.8612H1.31442C0.979841 13.8612 0.716957 13.5983 0.716957 13.2637V7.16957H13.8612V13.2637C13.8612 13.5983 13.5983 13.8612 13.2637 13.8612Z" />
                           </svg>
                         </span>
-                        12 Feb 2024
+                        16 March 2024
                       </p>
                       <p className="mr-5 flex items-center text-base font-medium text-body-color">
                         <span className="mr-3">
@@ -103,12 +103,11 @@ const BlogDetailsPage = () => {
                 </div>
                 <div>
                   <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  Unlock Your Winning Potential: Explore the Ultimate Betting Experience with Guruji Bet! Dive into the world of online betting with Guruji Bet, your premier destination for betting IDs and thrilling gaming opportunities.
-                  </p>
+                  Unleash the Thrill of IPL Betting with Our Reliable Betting ID Provider!                  </p>
                   <div className="mb-10 w-full overflow-hidden rounded">
                     <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
                       <Image
-                        src="/images/blog/blog-details-02.jpg"
+                        src="/images/blog/ipl.webp"
                         alt="image"
                         fill
                         className="object-cover object-center"
@@ -116,16 +115,14 @@ const BlogDetailsPage = () => {
                     </div>
                   </div>
                   <p className="mb-8 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  From ICC Cricket betting to a wide array of casino classics, Guruji Bet offers endless excitement for every gambler. Join us as we uncover the secrets to success, providing expert tips and strategies to help you win big. Whether you're a seasoned bettor or a newcomer to the scene, Guruji Bet is your gateway to excitement and victory. 
+                  From ICC Cricket betting to a wide array of casino classics, Bet Khelo offers endless excitement for every gambler. Join us as we uncover the secrets to success, providing expert tips and strategies to help you win big. Whether you're a seasoned bettor or a newcomer to the scene, Bet Khelo is your gateway to excitement and victory. 
                     <strong className="text-primary dark:text-white">
                     Start winning today
                     </strong>
-                    Discover the Thrill: Guruji Bet, Your Premier Betting Destination! Immerse yourself in the world of online betting with Guruji Bet, the trusted platform serving over 100,000 users for the past 5 years.
-                  </p>
+                    Are you a die-hard cricket fan looking to add an extra layer of excitement to the upcoming IPL season? Look no further! Our reliable IPL betting ID provider is here to offer you a seamless and secure platform to place your bets and experience the thrill of cricket betting like never before.                  </p>
                   <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  Explore our extensive range of betting IDs, including Casino Betting ID and Online Casino ID, all tailored to deliver an unparalleled gaming experience. With a minimum betting ID value of just 100 Rupees and exclusive bonuses, Guruji Bet stands out from the crowd. Join us as we delve into the exciting realm of online betting, where every wager is a chance to win big. Start your journey with
-                    <span className="text-primary underline dark:text-white">
-                    Guruji Bet today!"
+                  With the IPL being one of the most popular and exciting cricket tournaments in the world, betting on your favorite teams and players adds an element of excitement and engagement to every match. Our platform is designed to provide you with a user-friendly interface, secure payment options, and a wide range of betting options to cater to all your betting needs.                    <span className="text-primary underline dark:text-white">
+                 
                     </span>
                     {/* donec enim diam. Varius sit amet mattis vulputate enim nulla
                     aliquet porttitor. Odio pellentesque diam volutpat commodo
@@ -135,26 +132,30 @@ const BlogDetailsPage = () => {
                     Best marketplace for Betting ID.
                   </h3>
                   <p className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  In today's digital landscape, online betting on cricket, casinos, and various other sports has emerged as a popular and convenient way to not only enjoy the thrill of gaming but also to earn money. With numerous online platforms vying for attention, the challenge lies in finding a trustworthy provider that ensures a secure and fair gaming experience.
-                  </p>
+                  Why choose our IPL betting ID provider?                  </p>
                   <ul className="mb-10 list-inside list-disc text-body-color">
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                      More Than 10 Betting Exchange Patner
+                    Secure and Reliable: We prioritize the security and privacy of our users, ensuring that all transactions and personal information are safeguarded with the latest encryption technology.                    </li>
+                    <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
+                    Wide Range of Betting Options: Whether you're a seasoned bettor or a newbie looking to try your luck, our platform offers a variety of betting options including match-winner, top batsman, top bowler, and many more.</li>
+                    <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
+                    Live Betting Feature: Experience the thrill of betting in real-time with our live betting feature that allows you to place bets as the match unfolds.
                     </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                      Min ₹ 1000 Deposit
+                    Competitive Odds: We strive to offer competitive odds to ensure that our users get the best possible returns on their bets.
                     </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                      Quick Withdraw
-                    </li>
-                    <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                      24x7 Support Service
+                    24/7 Customer Support: Our dedicated customer support team is available round the clock to assist you with any queries or concerns you may have.
                     </li>
                   </ul>
                   <div className="relative z-10 mb-10 overflow-hidden rounded-md bg-primary bg-opacity-10 p-8 md:p-9 lg:p-8 xl:p-9">
                     <p className="text-center text-base font-medium italic text-body-color">
-                    "Welcome to the future of convenience and accessibility. With online services, the world is at your fingertips."
+                    So, why wait? Sign up with our IPL betting ID provider today and elevate your cricket viewing experience to a whole new level. Place your bets, cheer for your favorite teams, and get ready to witness the excitement and drama of the IPL like never before!
                     </p>
+                    <p className="text-center text-base font-medium italic text-body-color">
+                    Disclaimer: Betting is subject to local laws and regulations. Please ensure that you are of legal age to participate in betting activities in your jurisdiction. Betting should be done responsibly, and we encourage our users to gamble responsibly.
+
+Join us today and be a part of the electrifying world of IPL betting!                    </p>
                     <span className="absolute left-0 top-0 z-[-1]">
                       <svg
                         width="132"
@@ -333,4 +334,4 @@ With Guruji bet, you can bet with confidence, knowing that you're in good hands.
   );
 };
 
-export default BlogDetailsPage;
+export default BlogDetailsPage1;

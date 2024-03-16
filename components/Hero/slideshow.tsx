@@ -13,8 +13,8 @@ const Slideshow = () => {
 		"images/hero/image3.jpg",
 		"images/hero/image2.jpg",
 		"images/hero/image4.jpg",
-		"images/hero/image1.jpg",
-		"images/hero/image1.jpg",
+		// "images/hero/image1.jpg",
+		// "images/hero/image1.jpg",
 	];
 
 	//These are custom properties for zoom effect while slide-show

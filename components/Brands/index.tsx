@@ -72,7 +72,7 @@ const Brands = () => {
                 rel="nofollow noreferrer"
                 className="relative h-40 w-full   dark:opacity-60 dark:hover:opacity-100"
               >
-                <Image src="/images/brands/apna.webp" alt="online betting id" fill sizes="40"/>
+                <Image src="/images/brands/fairbet_black.png" alt="online betting id" fill sizes="40"/>
               </a>
               <a
                 // href=
@@ -82,14 +82,14 @@ const Brands = () => {
               >
                 <Image src="/images/brands/dimond.webp" alt="online betting id" fill sizes="40"/>
               </a>
-              <a
+              {/* <a
                 // href=
                 target="_blank"
                 rel="nofollow noreferrer"
                 className="relative h-40 w-full   dark:opacity-60 dark:hover:opacity-100"
               >
                 <Image src="/images/brands/safron.webp" alt="online betting id" fill sizes="40"/>
-              </a>
+              </a> */}
               <a
                 // href=
                 target="_blank"
@@ -106,14 +106,14 @@ const Brands = () => {
               >
                 <Image src="/images/brands/world777.webp" alt="online betting id" fill sizes="40"/>
               </a>
-              <a
+              {/* <a
                 // href=
                 target="_blank"
                 rel="nofollow noreferrer"
                 className="relative h-40 w-full   dark:opacity-60 dark:hover:opacity-100"
               >
                 <Image src="/images/brands/tiger.webp" alt="online betting id" fill sizes="40"/>
-              </a>
+              </a> */}
                       
           {/* <div >
             <img width={100} height={50} src="/images/brand/logo.png" />

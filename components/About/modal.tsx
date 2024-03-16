@@ -1,11 +1,11 @@
 import React, { useState } from "react";
 import { AiFillFire } from "react-icons/ai";
 import Image from "next/image";
-import Trophy from "public/images/brands/fairbet.webp";
+import Trophy from "public/images/brands/fairbet7.png";
 import Gift from "public/images/brands/all_paanel.png";
 import sky from "public/images/brands/casino exchange.png";
 import ice from "public/images/brands/teen patti.png";
-import saf from "public/safron.png";
+import saf from "public/images/brands/daimondexch.png";
 import Link from "next/link"
 import copy from "public/copy.svg";
 
@@ -72,8 +72,8 @@ const TestModals = () => {
                 <p>
                   {/* This component is built using shadcn/ui&apos;s dialog and
                   drawer component, which is built on top of Vaul. */}
-                  <span className="font-semibold">UserName:</span> Betkheloo{" "}
-                  <button onClick={() => copyText("Betkheloo")}><Image
+                  <span className="font-semibold">UserName:</span> Guruji bet{" "}
+                  <button onClick={() => copyText("Guruji bet")}><Image
                   width={20}
                   height={20}
                 src={copy}
@@ -84,8 +84,8 @@ const TestModals = () => {
                
                 </p>
                 <p>
-                  <span className="font-semibold">PassWord:</span> Betkheloo{"  "}
-                  <button onClick={() => copyText("Betkheloo")}><Image
+                  <span className="font-semibold">PassWord:</span> Guruji bet{"  "}
+                  <button onClick={() => copyText("Guruji bet")}><Image
                   width={20}
                   height={20}
                 src={copy}
@@ -148,8 +148,8 @@ const TestModals = () => {
                 <p>
                   {/* This component is built using shadcn/ui&apos;s dialog and
                   drawer component, which is built on top of Vaul. */}
-                  <span className="font-semibold">UserName:</span> Betkheloo{" "}
-                  <button onClick={() => copyText("Betkheloo")}><Image
+                  <span className="font-semibold">UserName:</span> Guruji bet{" "}
+                  <button onClick={() => copyText("Guruji bet")}><Image
                   width={20}
                   height={20}
                 src={copy}
@@ -160,8 +160,8 @@ const TestModals = () => {
                
                 </p>
                 <p>
-                  <span className="font-semibold">PassWord:</span> Betkheloo{"  "}
-                  <button onClick={() => copyText("Betkheloo")}><Image
+                  <span className="font-semibold">PassWord:</span> Guruji bet{"  "}
+                  <button onClick={() => copyText("Guruji bet")}><Image
                   width={20}
                   height={20}
                 src={copy}
@@ -214,8 +214,8 @@ const TestModals = () => {
                 <p>
                   {/* This component is built using shadcn/ui&apos;s dialog and
                   drawer component, which is built on top of Vaul. */}
-                  <span className="font-semibold">UserName:</span> Betkheloo{" "}
-                  <button onClick={() => copyText("Betkheloo")}><Image
+                  <span className="font-semibold">UserName:</span> Guruji bet{" "}
+                  <button onClick={() => copyText("Guruji bet")}><Image
                   width={20}
                   height={20}
                 src={copy}
@@ -226,8 +226,8 @@ const TestModals = () => {
                
                 </p>
                 <p>
-                  <span className="font-semibold">PassWord:</span> Betkheloo{"  "}
-                  <button onClick={() => copyText("Betkheloo")}><Image
+                  <span className="font-semibold">PassWord:</span> Guruji bet{"  "}
+                  <button onClick={() => copyText("Guruji bet")}><Image
                   width={20}
                   height={20}
                 src={copy}
@@ -258,11 +258,11 @@ const TestModals = () => {
 
 
 
-  {/* <div className="flex justify-center mx-5 bg-saf  rounded-lg lg:w-1/5 mt-6">
+  <div className="flex justify-center mx-5 bg-ice  rounded-lg lg:w-1/5 mt-6">
     <div className="flex flex-col md:flex-col md:max-w-xl items-center shadow-lg m-2">
       <Image className="m-4" src={saf} width={200} height={200} objectFit="contain" alt="online betting id"/>
-      <div className="px-6 py-8 flex flex-col justify-start">
-        <h5 className="text-gray-900 text-xl font-medium mb-4">Saffron Exchange</h5>
+      <div className="px-6 py-10 flex flex-col justify-start">
+        <h5 className="text-white text-xl font-medium mb-4">Diamond Exchange</h5>
 
         <Credenza >
             <CredenzaTrigger asChild>
@@ -272,16 +272,16 @@ const TestModals = () => {
             </CredenzaTrigger>
             <CredenzaContent>
               <CredenzaHeader>
-                <CredenzaTitle>Saffron ExChange</CredenzaTitle>
+                <CredenzaTitle>Diamond Exchange</CredenzaTitle>
                 <CredenzaDescription>
-                  Demo Id For Saffron Exchange
+                  Demo Id For Diamond Exchange
                 </CredenzaDescription>
               </CredenzaHeader>
               <CredenzaBody className="space-y-4 pb-4 text-center text-sm sm:pb-0 sm:text-left">
                 <p>
  
-                  <span className="font-semibold">UserName:</span> Betkheloo{" "}
-                  <button onClick={() => copyText("Betkheloo")}><Image
+                  <span className="font-semibold">UserName:</span> Guruji bet{" "}
+                  <button onClick={() => copyText("Guruji bet")}><Image
                   width={20}
                   height={20}
                 src={copy}
@@ -292,8 +292,8 @@ const TestModals = () => {
                
                 </p>
                 <p>
-                  <span className="font-semibold">PassWord:</span> Betkheloo{"  "}
-                  <button onClick={() => copyText("Betkheloo")}><Image
+                  <span className="font-semibold">PassWord:</span> Guruji bet{"  "}
+                  <button onClick={() => copyText("Guruji bet")}><Image
                   width={20}
                   height={20}
                 src={copy}
@@ -320,7 +320,7 @@ const TestModals = () => {
           </Credenza>
       </div>
     </div>
-  </div> */}
+  </div>
 
 
 
@@ -357,8 +357,8 @@ const TestModals = () => {
                 <p>
                   {/* This component is built using shadcn/ui&apos;s dialog and
                   drawer component, which is built on top of Vaul. */}
-                  <span className="font-semibold">UserName:</span> Betkheloo{" "}
-                  <button onClick={() => copyText("Betkheloo")}><Image
+                  <span className="font-semibold">UserName:</span> Guruji bet{" "}
+                  <button onClick={() => copyText("Guruji bet")}><Image
                   width={20}
                   height={20}
                 src={copy}
@@ -369,8 +369,8 @@ const TestModals = () => {
                
                 </p>
                 <p>
-                  <span className="font-semibold">PassWord:</span> Betkheloo{"  "}
-                  <button onClick={() => copyText("Betkheloo")}><Image
+                  <span className="font-semibold">PassWord:</span> Guruji bet{"  "}
+                  <button onClick={() => copyText("Guruji bet")}><Image
                   width={20}
                   height={20}
                 src={copy}
